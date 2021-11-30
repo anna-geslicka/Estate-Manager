@@ -3,6 +3,7 @@ Holiday Camp Database is the result of a student project on Java Foundations (1s
 This project is an example of a system supproting residential aeras management.
 
 **Assignment:**
+
 Write a program that will be used to manage a network of residential areas by a developer.
 The developer may have many residential areas, and within a residential area there may be many apartment buildings, in which there is an finite number of apartments for rent.
 
