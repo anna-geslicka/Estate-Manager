@@ -1,5 +1,5 @@
 # Estate-Manager
-Holiday Camp Database is the result of a student project on Java Foundations (1st year).
+Estate Manager is the result of a student project on Java Foundations (1st year).
 This project is an example of a system supproting residential aeras management.
 
 **Assignment:**
