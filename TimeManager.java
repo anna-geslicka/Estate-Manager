@@ -34,6 +34,7 @@ public class TimeManager extends Thread{
         return this.date.plusDays(30);
     }
 
+    //bad code
     public void checkLeaseAgreements() {
         for (int i = 0; i < this.dev.residentialAreaList.size(); i++) {
             ResidentialArea residentialArea = this.dev.residentialAreaList.get(i);
